@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IPAddresses", "IPAddresses\IPAddresses.csproj", "{03D30594-3E36-4406-9FE5-20C31576E017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03D30594-3E36-4406-9FE5-20C31576E017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D30594-3E36-4406-9FE5-20C31576E017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D30594-3E36-4406-9FE5-20C31576E017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D30594-3E36-4406-9FE5-20C31576E017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {033E209B-A257-4F78-8F89-62B67AB1A2E2}
+	EndGlobalSection
+EndGlobal
